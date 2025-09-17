@@ -69,27 +69,27 @@ O **HelpDesk** nasceu para resolver essa dor, centralizando e automatizando o at
     <tr>
       <td>Jonas Rubio</td>
       <td>Product Owner</td>
-      <td>[@JSRubioo](https://github.com/JSRubioo)</td>
+      <td>https://github.com/JSRubioo</td>
     </tr>
     <tr>
       <td>Breno Rodney</td>
       <td>Scrum Master</td>
-      <td>[@acreditar](https://github.com/acreditar)</td>
+      <td>https://github.com/acreditar</td>
     </tr>
     <tr>
       <td>João Gabriel</td>
       <td>Desenvolvedor</td>
-      <td>[@dev-joaogabriel](https://github.com/dev-joaogabriel)</td>
+      <td>https://github.com/dev-joaogabriel</td>
     </tr>
     <tr>
       <td>Kauã Castro</td>
       <td>Desenvolvedor</td>
-      <a><td>[@kauacsilva](https://github.com/kauacsilva)</td></a>
+      <td>https://github.com/kauacsilva</td>
     </tr>
     <tr>
       <td>Rodrigo Eduardo</td>
       <td>Desenvolvedor</td>
-      <td>[@devRODS](https://github.com/devRODS)</td>
+      <td>https://github.com/devRODS</td>
     </tr>
   </table>
 </div>
