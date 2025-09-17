@@ -84,7 +84,7 @@ O **HelpDesk** nasceu para resolver essa dor, centralizando e automatizando o at
     <tr>
       <td>Kauã Castro</td>
       <td>Desenvolvedor</td>
-      <td>[@kauacsilva](https://github.com/kauacsilva)</td>
+      <a><td>[@kauacsilva](https://github.com/kauacsilva)</td></a>
     </tr>
     <tr>
       <td>Rodrigo Eduardo</td>
