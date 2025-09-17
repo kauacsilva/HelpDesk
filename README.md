@@ -40,3 +40,56 @@ O **HelpDesk** nasceu para resolver essa dor, centralizando e automatizando o at
 
 ---
 
+## 🗂️ Pasta de Documentação
+
+👉 [Acesse a Documentação](https://github.com/kauacsilva/HelpDesk/tree/main/Documenta%C3%A7%C3%A3o)
+
+
+---
+
+## 🛠️ Estrutura do Projeto
+
+
+---
+
+## 🚀 Como Executar, Usar e Testar 
+
+
+---
+
+## 👨‍💻 Equipe
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Membro</th>
+      <th>Função</th>
+      <th>GitHub</th>
+    </tr>
+    <tr>
+      <td>Jonas Rubio</td>
+      <td>Product Owner</td>
+      <td>[@JSRubioo](https://github.com/JSRubioo)</td>
+    </tr>
+    <tr>
+      <td>Breno Rodney</td>
+      <td>Scrum Master</td>
+      <td>[@acreditar](https://github.com/acreditar)</td>
+    </tr>
+    <tr>
+      <td>João Gabriel</td>
+      <td>Desenvolvedor</td>
+      <td>[@dev-joaogabriel](https://github.com/dev-joaogabriel)</td>
+    </tr>
+    <tr>
+      <td>Kauã Castro</td>
+      <td>Desenvolvedor</td>
+      <td>[@kauacsilva](https://github.com/kauacsilva)</td>
+    </tr>
+    <tr>
+      <td>Rodrigo Eduardo</td>
+      <td>Desenvolvedor</td>
+      <td>[@devRODS](https://github.com/devRODS)</td>
+    </tr>
+  </table>
+</div>
