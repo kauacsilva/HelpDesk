@@ -12,20 +12,20 @@ O **HelpDesk** nasceu para resolver essa dor, centralizando e automatizando o at
 
 ## 📋 Backlog do Produto  
 
-👉 [Acesse o Backlog Completo](https://github.com/acreditar/HelpDeskPIM/blob/main/backlog.md)
+👉 [Acesse o Backlog Completo](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/backlog.md)
 
 ---
 
 ## 📆 Cronograma de Evolução do Projeto  
 
-👉 [Acesse o DiagramaGantt](https://github.com/acreditar/HelpDeskPIM/blob/main/gantt.md)
+👉 [Acesse o DiagramaGantt](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/gantt.md)
 
 
 ---
 
 ## 📋 Tabela de Sprints  
 
-👉 [Acesse as Sprints](https://github.com/acreditar/HelpDeskPIM/blob/main/sprint.md)
+👉 [Acesse as Sprints](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/sprint.md)
 
 
 ---
