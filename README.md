@@ -72,17 +72,17 @@ O **HelpDesk** nasceu para resolver essa dor, centralizando e automatizando o at
       <td>https://github.com/JSRubioo</td>
     </tr>
     <tr>
-      <td>Breno Rodney</td>
+      <td>Kauã Castro</td>
       <td>Scrum Master</td>
       <td>https://github.com/acreditar</td>
     </tr>
     <tr>
-      <td>João Gabriel</td>
+      <td>Breno Rodney</td>
       <td>Desenvolvedor</td>
       <td>https://github.com/dev-joaogabriel</td>
     </tr>
     <tr>
-      <td>Kauã Castro</td>
+      <td>João Gabriel</td>
       <td>Desenvolvedor</td>
       <td>https://github.com/kauacsilva</td>
     </tr>
