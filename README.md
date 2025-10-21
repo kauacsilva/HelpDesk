@@ -16,6 +16,22 @@ O **HelpDesk** nasceu para resolver essa dor, centralizando e automatizando o at
 
 ---
 
+## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
+
+* 
+*
+* 
+* 
+* 
+
+## 🏆 DoD - Definition of Done <a id="dod"></a>
+
+* [Manual de Usuário](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/Manual%20do%20Usu%C3%A1rio)
+* Manual da Aplicação
+* Código completo
+
+---
+
 ## 📆 Cronograma de Evolução do Projeto  
 
 👉 [Acesse o DiagramaGantt](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/gantt.md)
@@ -47,12 +63,28 @@ O **HelpDesk** nasceu para resolver essa dor, centralizando e automatizando o at
 
 ---
 
-## 🛠️ Estrutura do Projeto
+
+## 📖 Manual de Instalação <a id="manual"></a>
+
+### 🛠 Pré-requisitos
+
+- Git ([Download](https://git-scm.com/downloads))
+
+- Node.js 16+ ([Download](https://nodejs.org/en/download))
+
+---
+
+### 1. Clonar o Repositório Principal
 
 
 ---
 
-## 🚀 Como Executar, Usar e Testar 
+### 2. Configuração do Backend (auxia-backend)
+
+
+
+### 3. Configuração do Frontend (auxia-frontend)
+
 
 
 ---
