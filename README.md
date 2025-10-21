@@ -79,11 +79,11 @@ O **HelpDesk** nasceu para resolver essa dor, centralizando e automatizando o at
 
 ---
 
-### 2. Configuração do Backend (auxia-backend)
+### 2. Configuração do Backend 
 
 
 
-### 3. Configuração do Frontend (auxia-frontend)
+### 3. Configuração do Frontend 
 
 
 
