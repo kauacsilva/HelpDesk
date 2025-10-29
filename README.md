@@ -36,7 +36,7 @@ O **HelpDesk** nasceu para resolver essa dor, centralizando e automatizando o at
 
 ## 🛠 Estrutura do Projeto
 
-👉 [Acesse a Estrutura do Projeto]()
+👉 [Acesse a Estrutura do Projeto](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/Estrutura.md)
 
 ---
 
