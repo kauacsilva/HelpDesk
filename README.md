@@ -52,10 +52,10 @@ O **HelpDesk** nasceu para resolver essa dor, centralizando e automatizando o at
 
 - ### 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
-* [Descrição e contexto]()
-* [Dados, backend e integração]()
-* [Técnica e qualidade de código]()
-* [Geral/Logística]()
+* 
+* 
+* 
+*
 
 - ### 🏆 DoD - Definition of Done <a id="dod"></a>
 
