@@ -52,11 +52,11 @@ O **HelpDesk** nasceu para resolver essa dor, centralizando e automatizando o at
 
 - ### 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
-* [História clara (quem, o quê, por quê)](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/DoR.md)
-* [Critérios de aceitação definidos](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/DoR.md)
-* [Escopo fechado](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/DoR.md)
-* [Dependências identificadas](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/DoR.md)
-* [DoD alinhado com a equipe](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/DoR.md)
+* [História clara (quem, o quê, por quê)](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/DoR)
+* [Critérios de aceitação definidos](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/DoR)
+* [Escopo fechado](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/DoR)
+* [Dependências identificadas](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/DoR)
+* [DoD alinhado com a equipe](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/DoR)
  
 
 - ### 🏆 DoD - Definition of Done <a id="dod"></a>
