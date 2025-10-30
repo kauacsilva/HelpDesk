@@ -50,20 +50,19 @@ O **HelpDesk** nasceu para resolver essa dor, centralizando e automatizando o at
 
 👉 [Acesse a Documentação](https://github.com/kauacsilva/HelpDesk/tree/main/Documenta%C3%A7%C3%A3o)
 
-- ### 🏃‍ DoR - Definition of Ready <a id="dor"></a>
+    
+### 🏃‍ [DoR - Definition of Ready]
 
-* [História clara (quem, o quê, por quê)](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/DoR.md)
-* [Critérios de aceitação definidos](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/DoR.md)
-* [Escopo fechado](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/DoR.md)
-* [Dependências identificadas](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/DoR.md)
-* [DoD alinhado com a equipe](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/DoR.md)
+* [Checklist Geral]()
+* [DoR e DoD por sprint]()
  
+### 🏆 [DoD - Definition of Done]
 
-- ### 🏆 DoD - Definition of Done <a id="dod"></a>
-
-* [Código completo](https://github.com/kauacsilva/HelpDesk/tree/main/Codigo)
-* [Manual de Usuário](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/Manual%20do%20Usuario.md)
-* [Manual da Aplicação](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/Manual%20de%20Aplica%C3%A7%C3%A3o.md)
+* [Checklist Geral]()
+* [DoR e DoD por sprint]()
+    * [Código completo](https://github.com/kauacsilva/HelpDesk/tree/main/Codigo)
+    * [Manual de Usuário](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/Manual%20do%20Usuario.md)
+    * [Manual da Aplicação](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/Manual%20de%20Aplica%C3%A7%C3%A3o.md)
 
 ---
 
